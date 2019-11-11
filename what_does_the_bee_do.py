@@ -22,3 +22,19 @@ print(qst+ "- The mother Lay out the money.")
 qst=input ('And what does baby do?')
 print(qst+"- The Baby he Eat up the honey.")
 
+
+
+qst=input("who_said_meow?")
+print(qst)
+
+Q1='Пить будешь?'
+Q2='Пожрешь?'
+A1=input(Q1)
+A2=input(Q2)
+
+print(Q1)
+print(A1)
+print(Q2)
+print(A2)
+
+
